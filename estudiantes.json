@@ -1,0 +1,38 @@
+{
+
+    "estudiantes": [
+        {
+
+            "id": 22534588,
+            "nombre": "Maria Paola",
+            "apellido": "Arteta",
+            "edad": 20,
+            "nvlIngles": "A1"
+},
+        {
+            "id": 22549322,
+            "nombre": "Roberto mendoza",
+            "apellido": "villalobos",
+            "edad": 19,
+            "nvlIngles": "B2"
+},
+
+        {
+            "id": 24871429,
+            "nombre": "Hernesto medina",
+            "apellido": "mora",
+            "edad": 28,
+            "nvlIngles": "C1"
+},      
+
+        {
+            "id": 23009142,
+            "nombre": "Alberto enrrique",
+            "apellido": "Mora",
+            "edad": 18,
+            "nvlIngles": "C2"
+
+        }
+    ]
+}        
+
